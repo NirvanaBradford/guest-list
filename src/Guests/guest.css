@@ -36,3 +36,7 @@ td {
   color: rgb(244, 133, 229);
   font-weight: bolder;
 }
+
+button {
+  background-color: rgb(244, 133, 229);
+}
